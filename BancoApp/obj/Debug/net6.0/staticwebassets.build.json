@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nAZmIE24xEJEj3rQsUHDNGDXJZakxGKw25h7fL01upc=",
+  "Source": "BancoApp",
+  "BasePath": "_content/BancoApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
