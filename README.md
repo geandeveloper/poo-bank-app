@@ -1,4 +1,4 @@
-## Programação orientado objetos na práticaComo fazer deploy no Cloud Run
+## Programação orientado objetos na prática
 ---
 
 Não clique aqui: https://bit.ly/3DaDlbG
